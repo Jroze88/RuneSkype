@@ -36,7 +36,9 @@
     .dot {
         position: absolute;
         z-index: 5;
+        background-image: url('/resources/fighter.png');
     }
+
 
 
      span {
@@ -46,9 +48,9 @@
     }
 
     #LI_1 {
-        width: 35px;
-        height: 35px;
-        background-image: url('circle.png');
+        width: 45px;
+        height: 45px;
+        background-image: url('/resources/fighter.png');
         background-size: contain;
         background-color: rgba(0, 0, 0, 0);
 

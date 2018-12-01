@@ -64,6 +64,9 @@ export default class MapComponent extends Component {
                   <div onClick={this.zoomUp} className='up'></div>
                   <div onClick={this.zoomDown} className='down'></div>
                 </div>
+                <Icon /> 
+                <Icon /> 
+                <Icon /> 
                   <Icon /> 
       <Draggable>
         <div  style={{backgroundSize: this.state.size + '%'}} id='mapdiv'>

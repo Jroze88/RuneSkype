@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import Draggable from 'react-draggable'
+import './mapstyle.css'
 
 
 
