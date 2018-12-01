@@ -276,10 +276,7 @@ render( ) {
                       </li>
                     
                       <li>
-                          <a className="text-center" href="">
-                              <strong>See All Alerts</strong>
-                              <i className="fa fa-angle-right"></i>
-                          </a>
+                        
                       </li>
                   </ul>
                   {/* <!-- /.dropdown-alerts --> */}
