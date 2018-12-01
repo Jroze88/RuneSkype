@@ -95,7 +95,7 @@ render( ) {
 
       {/* {/* <!-- Navigation --> */} 
       <nav className="navbar playnav navbar-default navbar-static-top" role="navigation" style={{marginBottom: 0}}>
-          <div className="navbar-header">
+          <div className="navbar-header" style={{color: 'white'}}>   <img className='runelogo' src='/resources/runeskype.png' /> v 0.1
               <button type="button" className="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                   <span className="sr-only">Toggle navigation</span>
                   <span className="icon-bar"></span>

@@ -6,6 +6,10 @@ body {
     background-image: url('/resources/backgroundmap.jpg')
 }
 
+.runelogo {
+    max-height: 50px;
+}
+
 .index-gym {
     height: 100%;
     width: 100%;
